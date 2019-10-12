@@ -1,3 +1,3 @@
 # Phone Price Program C# 
-- C#
+- Built using C#
 - Simple program that compares phone prices
